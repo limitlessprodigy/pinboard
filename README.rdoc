@@ -1,1 +1,3 @@
-My Pinterest Clone
+So I'm building this app for inspirational stuff. It's a working progress but this is how the design looks now (you can post anything anonymously with a caption that sparks inspiration) right now it still looks elementary but i like it so far haha.
+
+if you want to join in on the development just message me. I'll happily add you as a collaborator.
